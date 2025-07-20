@@ -1,0 +1,6 @@
+{
+  "Group": "Multitenancy",
+  "FriendlyName": "Schema Routing Plugin",
+  "SystemName": "MultiTenant.SchemaRouting",
+  "Version": "1.00"
+}
